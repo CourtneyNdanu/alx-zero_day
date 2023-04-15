@@ -1,1 +1,1 @@
-This directory contains 0x03-git project files
+This directory contains 0x03-git files
